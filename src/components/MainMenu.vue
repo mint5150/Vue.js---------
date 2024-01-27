@@ -1,7 +1,7 @@
 <script setup>
 import TipsItem from './TipsItem.vue'
 import DocumentationIcon from './icons/IconDocumentation.vue'
-import Tips1 from '../views/tips1.vue'
+/*import Tips1 from '../views/tips1.vue'
 import Tips2 from '../views/tips2.vue'
 import Tips3 from '../views/tips3.vue'
 import Tips4 from '../views/tips4.vue'
@@ -15,7 +15,7 @@ import Tips11 from '../views/tips11.vue'
 import Tips12 from '../views/tips12.vue'
 import Tips13 from '../views/tips13.vue'
 import Tips14 from '../views/tips14.vue'
-import Tips15 from '../views/tips15.vue'
+import Tips15 from '../views/tips15.vue'*/
 </script>
 
 <template>
